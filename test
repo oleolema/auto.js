@@ -1,4 +1,2 @@
-```
 toast("开始运行");
 app.launchApp("TIM");
-```
