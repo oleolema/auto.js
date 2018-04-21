@@ -1,4 +1,4 @@
 ```
 toast("开始运行");
-app.launchApp("QQ");
+app.launch("QQ");
 ```
